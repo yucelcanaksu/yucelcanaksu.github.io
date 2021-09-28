@@ -9,7 +9,7 @@ Disabled and elderly individuals in Turkey have limited access to exoskeletons t
 
 In the project, intent determination is made with force sensors placed under the feet. The engine and spring system are used together to support the movement of the user, thus a more efficient system has been established.
 
-[Further explanations and research.](<embed src="https://yucelcanaksu.github.io/design_and_control_of_an_assistive_exoskeleton_knee_mechanism.pdf" type="application/pdf" />)
+[Further explanations and research.]("https://yucelcanaksu.github.io/design_and_control_of_an_assistive_exoskeleton_knee_mechanism.pdf" type="application/pdf")
 
 ### drone projesini eklicem buraya
 
