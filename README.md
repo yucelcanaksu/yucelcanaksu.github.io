@@ -1,6 +1,6 @@
 ## Yucel Can Aksu
 
-You can use the [editor on GitHub](https://github.com/yucelcanaksu/yucelcanaksu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+yıldız mezunuyum alayınızı skerm [monke](https://static.wikia.nocookie.net/thetanklore/images/9/99/Lemonke.jpg/revision/latest/top-crop/width/360/height/450?cb=20210120063807)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
