@@ -1,4 +1,4 @@
-# [Yucel Can Aksu]()
+# [Yucel Can Aksu](https://www.google.com/search?q=monke&sxsrf=AOaemvK7QLndTZwyJXaDeKYs5kzRtt_MZg:1632836130852&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_7rfM5KHzAhVx_rsIHRz1A6wQ_AUoAXoECAEQAw&cshid=1632836294410727&biw=1920&bih=912&dpr=1#imgrc=lixqW2kbdDngVM)
 
 I graduated from Yıldız Technical University Mechatronics Engineering. Currently working at [Tora Petrol](https://torapetrol.com) as R&D engineer.
 
