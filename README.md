@@ -2,11 +2,11 @@
 
 I graduated from Yıldız Technical University Mechatronics Engineering. Currently working at [Tora Petrol](https://torapetrol.com) as R&D engineer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [DESIGN AND CONTROL OF AN ASSISTIVE EXOSKELETON KNEE MECHANISM](https://youtu.be/8KTMSBecCQ8)
 
-### Markdown
+Disabled and elderly individuals in Turkey have limited access to exoskeletons that will facilitate their movements. This negatively affects the lives of those individuals in Turkey. Aim of the project; to facilitate the access of individuals with these problems to exoskeletons that can help and to ease their daily lives.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the project, intent determination is made with force sensors placed under the feet. The engine and spring system are used together to support the movement of the user, thus a more efficient system has been established.
 
 ```markdown
 Syntax highlighted code block
