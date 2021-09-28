@@ -1,8 +1,8 @@
-### Yucel Can Aksu
+# Yucel Can Aksu
 
 I graduated from Yıldız Technical University Mechatronics Engineering. Currently working at [Tora Petrol](https://torapetrol.com) as R&D engineer.
 
-## [DESIGN AND CONTROL OF AN ASSISTIVE EXOSKELETON KNEE MECHANISM](https://youtu.be/8KTMSBecCQ8)
+### [DESIGN AND CONTROL OF AN ASSISTIVE EXOSKELETON KNEE MECHANISM](https://youtu.be/8KTMSBecCQ8)
 
 Disabled and elderly individuals in Turkey have limited access to exoskeletons that will facilitate their movements. This negatively affects the lives of those individuals in Turkey. Aim of the project; to facilitate the access of individuals with these problems to exoskeletons that can help and to ease their daily lives.
 
