@@ -11,7 +11,17 @@ In the project, intent determination is made with force sensors placed under the
 
 <a href="design_and_control_of_an_assistive_exoskeleton_knee_mechanism.pdf" target="_blank">Further explanations and research.</a>
 
-### drone projesini eklicem buraya
+### [drone projesini eklicem buraya]()
+
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yucelcanaksu/yucelcanaksu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+I am planning on to get a bachelor's degree in Gastronomy & Culinary Arts and Master's degree in Mechatronics Engineering.
 
 ```markdown
 Syntax highlighted code block
@@ -30,12 +40,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yucelcanaksu/yucelcanaksu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
-I am planning on to get a bachelor's degree in Gastronomy & Culinary Arts and Master's degree in Mechatronics Engineering.
