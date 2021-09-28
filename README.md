@@ -1,6 +1,6 @@
 ## Yucel Can Aksu
 
-yıldız mezunuyum alayınızı skerm [monke](https://static.wikia.nocookie.net/thetanklore/images/9/99/Lemonke.jpg/revision/latest/top-crop/width/360/height/450?cb=20210120063807)
+I graduated from Yıldız Technical University Mechatronics Engineering.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
