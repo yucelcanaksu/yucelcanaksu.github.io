@@ -1,4 +1,4 @@
-### <a href="design_and_control_of_an_assistive_exoskeleton_knee_mechanism.pdf" target="_blank">Yucel Can Aksu.</a>
+### <a href="lemonke.jpg" target="_blank">Yucel Can Aksu.</a>
 
 I graduated from Yıldız Technical University Mechatronics Engineering. Currently working at [Tora Petrol](https://torapetrol.com/en/) as R&D engineer.
 
