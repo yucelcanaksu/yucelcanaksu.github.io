@@ -1,4 +1,4 @@
-# [Yucel Can Aksu](https://www.google.com/search?q=monke&sxsrf=AOaemvK7QLndTZwyJXaDeKYs5kzRtt_MZg:1632836130852&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_7rfM5KHzAhVx_rsIHRz1A6wQ_AUoAXoECAEQAw&cshid=1632836294410727&biw=1920&bih=912&dpr=1#imgrc=lixqW2kbdDngVM)
+### <a href="design_and_control_of_an_assistive_exoskeleton_knee_mechanism.pdf" target="_blank">Yucel Can Aksu.</a>
 
 I graduated from Yıldız Technical University Mechatronics Engineering. Currently working at [Tora Petrol](https://torapetrol.com/en/) as R&D engineer.
 
@@ -12,9 +12,9 @@ In the project, intent determination is made with force sensors placed under the
 <a href="design_and_control_of_an_assistive_exoskeleton_knee_mechanism.pdf" target="_blank">Further explanations and research.</a>
 
 ### [drone projesini eklicem buraya]()
+This project was developed for TeknoFest's UAV competition. That years competition was picking up water from an pool and dropping it somewhere else. You can basically say firefighter drone. I worked on the image processing and the mechanism of water grab/release system.
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Image processing was able to determine a water source and confirm its distance with LiDar. Water grab/release system was a basic mechanical system with a water sensor to stop water flow into the cup. Too much water was creating turbulance for the drone.
 
 ### Jekyll Themes
 
