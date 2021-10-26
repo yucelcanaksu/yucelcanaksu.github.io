@@ -1,4 +1,4 @@
-# <a href="Lemonke.jpg" target="_blank">###Yucel Can Aksu.</a>
+# <a href="Lemonke.jpg" target="_blank">Yucel Can Aksu</a>
 
 I graduated from Yıldız Technical University Mechatronics Engineering. Currently working at [Tora Petrol](https://torapetrol.com/en/) as R&D and Project engineer.
 
